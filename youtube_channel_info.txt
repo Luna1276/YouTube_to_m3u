@@ -1,5 +1,15 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+Liga Mx Femenil | Deportes | https://seeklogo.com/images/L/liga-bbva-mx-femenil-2019-logo-B7D6784AED-seeklogo.com.png |
+https://www.youtube.com/@ligabbvamxfemenil/streams
+Liga Mx Femenil | Deportes | https://seeklogo.com/images/L/liga-bbva-mx-femenil-2019-logo-B7D6784AED-seeklogo.com.png |
+https://www.youtube.com/UCxRPBo4Gtdj_DNhR_BPrC3Q
+N+Foro | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/800px-Logo-nmas.png |
+https://www.youtube.com/@nmas/streams
+N+Foro | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/800px-Logo-nmas.png |
+https://www.youtube.com/watch?v=Ulwgdf5t46o
+N+Foro | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/800px-Logo-nmas.png |
+https://www.youtube.com/watch?v=Ulwgdf5t46o
+N+Foro | Noticias | https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/800px-Logo-nmas.png |
+https://www.youtube.com/@somoscalientetv/streams
